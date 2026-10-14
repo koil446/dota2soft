@@ -14,4 +14,4 @@
     pip install PyQt6
     python main.py
 
-![Интерфейс](mom_pudgeEzgame)
+![Интерфейс](mom_pudgeEZgame.jpg)
